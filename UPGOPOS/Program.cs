@@ -18,6 +18,8 @@ namespace UPGOPOS
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());
+
+
         }
     }
 }

@@ -174,3 +174,7 @@ C:\Users\Hung Nguyen\source\repos\UPGOPOS\UPGOPOS\obj\Debug\UPGOPOS.exe
 C:\Users\Hung Nguyen\source\repos\UPGOPOS\UPGOPOS\obj\Debug\UPGOPOS.pdb
 C:\Users\Hung Nguyen\source\repos\UPGOPOS\UPGOPOS\bin\Debug\x86\natives_blob.bin
 C:\Users\Hung Nguyen\source\repos\UPGOPOS\UPGOPOS\bin\Debug\x64\natives_blob.bin
+E:\UPGO.vn\POS\UPGOPOS\obj\Debug\UPGOPOS.Properties.Resources.resources
+E:\UPGO.vn\POS\UPGOPOS\obj\Debug\UPGOPOS.Main.resources
+E:\UPGO.vn\POS\UPGOPOS\obj\Debug\UPGOPOS.csproj.GenerateResource.cache
+E:\UPGO.vn\POS\UPGOPOS\obj\Debug\UPGOPOS.csproj.CoreCompileInputs.cache
